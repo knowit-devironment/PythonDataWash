@@ -7,3 +7,5 @@ Scriptet:
 5.) Tar imot respons og trekker ut Postnummer og Poststed.
 6.) Strukturerer.
 7.) Slår sammen med input data.
+
+Laget for å berike dataene for Bing Kartsøk (long lat funka dårlig der), før man oppdaget et bedre alternativ via ESRI.
